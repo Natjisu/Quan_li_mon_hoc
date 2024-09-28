@@ -99,4 +99,4 @@ def chon_chuc_nang():
             if xac_nhan_yes_no("Bạn có chắc chắn muốn thoát chương trình không?"):
                 print("Đang thoát chương trình...")
                 break
-chon_chuc_nang()
+#chon_chuc_nang()
